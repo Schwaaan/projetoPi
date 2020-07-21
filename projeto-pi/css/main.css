@@ -1,0 +1,12 @@
+body{
+    background-color:whitesmoke;
+}
+
+a {
+    color: whitesmoke;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
