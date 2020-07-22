@@ -1,5 +1,28 @@
 body{
     background-color:whitesmoke;
+    background-image: url("/projeto-pi/img/City-night-roads-buildings-traffic-lights_1920x1200.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container {
+    background-color: aliceblue;
+    height: 1200px;
+    opacity: 0.9;
+}
+
+.container h2 {
+    text-align: center;
+    color: black;
+}
+
+.container p {
+    color: #333333;
+    text-justify: auto;
+}
+
+.formulario {
+    margin-left: 35%;
 }
 
 a {
