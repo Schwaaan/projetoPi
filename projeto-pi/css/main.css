@@ -21,6 +21,10 @@ body{
     text-justify: auto;
 }
 
+.formulario {
+    margin-left: 35%;
+}
+
 a {
     color: whitesmoke;
 }
